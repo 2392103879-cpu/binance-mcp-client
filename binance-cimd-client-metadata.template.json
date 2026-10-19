@@ -1,5 +1,5 @@
 {
-  "client_id": "https://YOUR-PUBLIC-DOMAIN/binance-client-metadata.json",
+  "client_id": "https://2392103879-CPU.github.io/binance-client-metadata.json",
   "client_name": "DeepSeek Harness Binance MCP",
   "redirect_uris": [
     "http://127.0.0.1:19876/callback"
